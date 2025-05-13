@@ -1,4 +1,4 @@
-# TeacherAI_PRO1_bot
+# Название проекта - ИИ Ассистент для приложения для создания интерактивных уроков "TeacherAI"
 ```markdown
 ссылка на проект - https://t.me/TeacherAI_PRO1_bot
 # ИИ-ассистент для приложения TeacherAI  
