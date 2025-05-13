@@ -105,8 +105,9 @@ https://github.com/ActiveProfi/Teacher_AI_bot/blob/main/%D0%A1%D0%BA%D1%80%D0%B8
 "Окей, выберите время консультации:  
 ⏰ 10:00 15.10.2023  
 ⏰ 15:00 16.10.2023  
-(Событие будет добавлено в ваш Google Календарь после выбора)."  
+(Событие будет добавлено в ваш Google Календарь после выбора)."
 
+https://github.com/ActiveProfi/Teacher_AI_bot/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%20%D0%94%D0%97%202%20(%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B8%D1%81%D0%BA%D0%B01).png?raw=true
 
 ---
 
