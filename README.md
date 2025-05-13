@@ -1,4 +1,4 @@
-# "Teacher"_AI_bot
+# TeacherAI_PRO1_bot
 ```markdown
 ссылка на проект - https://t.me/TeacherAI_PRO1_bot
 # ИИ-ассистент для приложения TeacherAI  
